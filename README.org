@@ -5,5 +5,5 @@ From-scratch Wayland client implementation.
 |---------+-------------------------------------------|
 | source  | git:https://git.sr.ht/~shunter/wayflan   |
 | commit  | 70f2148                                   |
-| systems | wayflan, wayflan-client                   |
+| systems | wayflan wayflan-client                    |
 |---------+-------------------------------------------|
