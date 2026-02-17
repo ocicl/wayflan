@@ -2,8 +2,9 @@
 
 From-scratch Wayland client implementation.
 
-|---------+-------------------------------------------|
-| source  | git:https://git.sr.ht/~shunter/wayflan   |
-| commit  | 70f2148                                   |
-| systems | wayflan wayflan-client                    |
-|---------+-------------------------------------------|
+|---------+----------------------------------------|
+| source  | git:https://git.sr.ht/~shunter/wayflan |
+| commit  | f40e8dc                                |
+| systems | wayflan wayflan-client                 |
+|---------+----------------------------------------|
+------------|
